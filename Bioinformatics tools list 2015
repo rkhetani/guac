@@ -1,0 +1,44 @@
+
+
+GWAS tools:
+PLINK
+METAL
+BEAGLE
+SHAPEIT
+IMPUTE-SNPTEST or MACH/Minimac and the corresponding analysis tools 
+(MACH2DAT and MACH2QTL)
+Pathway tools (DEPICT GRAIL MAGENTA etc)
+Fine mapping tools CAVIAR etc
+
+Variant tools:
+GATK
+Vardict
+SNPEFF/ANNOVAR
+CADD
+EPACTS/SKAT
+RVTESTS/RAREMETAL
+
+Galaxy
+
+Metagenomics:
+Huttenhower tools
+CTB tools
+others
+
+RNA-Seq tools:
+Different types of analysis
+
+Genome assembly tools:
+
+
+Databases:
+Ensembl genome browser: www.ensembl.org/
+UCSC genome browser: https://genome.ucsc.edu
+PubMed: http://www.ncbi.nlm.nih.gov/pubmed
+OMIM: http://www.omim.org/
+Clinvar: http://www.ncbi.nlm.nih.gov/clinvar/
+ExAC: http://exac.broadinstitute.org/
+GWAS catalogue: https://www.ebi.ac.uk/gwas/
+Locuszoom (try plot with published data, trait groups = lipids, data file = LDL_GLGC.jointGWASMc_2013_hg19): locuszoom.sph.umich.edu/
+HapMap: http://hapmap.ncbi.nlm.nih.gov/
+SNAP proxy search: https://www.broadinstitute.org/mpg/snap/ldsearch.php
